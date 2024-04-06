@@ -4,13 +4,8 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Intelligent Conversations: Leverage the power of Google Gemini to engage in natural, informative, and creative conversations with your chatbot.
+Image Recognition: The app analyzes images submitted by users, providing insights, descriptions, or relevant information powered by AI.
+Firebase Integration: Secure data storage, user authentication, and real-time updates through Firebase integration.
+API Access: Ability to retrieve and process data from custom APIs stored in Firebase, enhancing the chatbot's knowledge base.
+Cross-Platform Potential: Build once and deploy to both Android and iOS (coming soon).
